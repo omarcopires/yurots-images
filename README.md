@@ -7,5 +7,5 @@ https://raw.githubusercontent.com/omarcopires/yurots-images/main/items/
 
 Store:
 ```
-https://raw.githubusercontent.com/omarcopires/yurots-images/store/
+https://raw.githubusercontent.com/omarcopires/yurots-images/main/store/
 ```
